@@ -30,7 +30,7 @@ local tbl =
 		
 		{
 			HQamount = 0,
-			amount = 9999,
+			amount = 99999,
 			collect = false,
 			cordial = true,
 			hold = false,
@@ -51,7 +51,7 @@ local tbl =
 		
 		{
 			HQamount = 0,
-			amount = 9999,
+			amount = 99999,
 			collect = false,
 			cordial = true,
 			hold = false,
@@ -72,7 +72,7 @@ local tbl =
 		
 		{
 			HQamount = 0,
-			amount = 9999,
+			amount = 99999,
 			collect = false,
 			cordial = true,
 			hold = false,
@@ -93,7 +93,7 @@ local tbl =
 		
 		{
 			HQamount = 0,
-			amount = 9999,
+			amount = 99999,
 			collect = false,
 			cordial = true,
 			hold = false,
@@ -114,7 +114,7 @@ local tbl =
 		
 		{
 			HQamount = 0,
-			amount = 9999,
+			amount = 99999,
 			collect = false,
 			cordial = true,
 			hold = false,
