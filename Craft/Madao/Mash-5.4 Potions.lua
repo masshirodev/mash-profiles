@@ -232,8 +232,8 @@ local tbl =
 	fish_3 = 
 	{
 	},
-	foodId = 1028720,
-	foodName = "[HQ] Mejillones al Ajillo",
+	foodId = 1030482,
+	foodName = "[HQ] Chili Crab",
 	glist = 
 	{
 		
@@ -340,7 +340,7 @@ local tbl =
 		{
 			HQingAuto = true,
 			HQingAutoVal = 35,
-			amount = 84,
+			amount = 34,
 			amountInBag = 0,
 			amountInBagHQ = 0,
 			cmreq = 0,
@@ -374,7 +374,7 @@ local tbl =
 			},
 			skillprofile = "None",
 			skilltype = 2,
-			skip = false,
+			skip = true,
 			useFood = false,
 			usePot = false,
 			usequick = false,
@@ -407,7 +407,8 @@ local tbl =
 				[32949] = 0,
 			},
 			item = 31894,
-			madaoprofile = "None",
+			madaoPNum = 2,
+			madaoprofile = "ACS\\Profile_531.lua",
 			name = "Grade 4 Tincture of Dexterity",
 			noStop = true,
 			potId = "1027958",
@@ -419,9 +420,10 @@ local tbl =
 				[18] = 3,
 				[19] = 3,
 			},
+			skillPNum = 1,
 			skillprofile = "None",
 			skilltype = 2,
-			skip = true,
+			skip = false,
 			useFood = false,
 			usePot = false,
 			usequick = false,
@@ -470,8 +472,8 @@ local tbl =
 			usequick = false,
 		},
 	},
-	potId = "1027958",
-	potName = "[HQ] Commanding Craftsman's Syrup",
+	potId = "1027959",
+	potName = "[HQ] Cunning Craftsman's Syrup",
 	profileRepeat = true,
 	profileType = "CraftOnly",
 	profileType_num = 3,
